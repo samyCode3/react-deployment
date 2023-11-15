@@ -1,0 +1,26 @@
+* {
+  margin : 0;
+  padding :0.2px 0px 0.2px 0px;
+  background-color: black;
+
+}
+
+.link {
+  text-align: center;
+}
+
+.link_header {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 2px; /* Adjust the margin to your preference */
+}
+
+.link_header a {
+  text-decoration: none;
+  color: #b2b2b2; /* Adjust the color to your preference */
+}
+
+.link_header .site_name {
+  color: #F2994A;
+  margin: 0px 5px;
+}
